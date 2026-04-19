@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Kamily Soares
+#  Kamily Soares
 
 **`Desenvolvedora Front-end`**
 
