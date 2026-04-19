@@ -1,8 +1,8 @@
-#  Kamily Soares
+#   Olá!!  Eu sou a Kamily Soares
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Kamily Soares, tenho 22 anos e sou natural do São Paulo. Concluí o ensino médio no EEEP MCPF em Pereiro-Ce, com o curso técnico em informática, graduada em design de interiores na Faculdade Unicesumar EAD. Sou apaixonada por design e tecnologia e artes em geral.
+Um pouco sobre mim: eu tenho 22 anos e sou natural do São Paulo e moro no Rio Grandedo Norte. Concluí o ensino médio no EEEP MCPF em Pereiro-Ce, no curso técnico em informática, graduada em design de interiores na Faculdade Unicesumar EAD. Sou apaixonada por design, tecnologia e artes em geral.
 
 ---
 
