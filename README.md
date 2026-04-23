@@ -2,7 +2,9 @@
 
 **`Desenvolvedora Front-end e Designer`**
 
-Um pouco sobre mim: eu tenho 22 anos e sou natural do São Paulo e moro no Rio Grandedo Norte. Concluí o ensino médio no EEEP MCPF em Pereiro-Ce, no curso técnico em informática, graduada em design de interiores na Faculdade Unicesumar EAD. Sou apaixonada por design, tecnologia e artes em geral.
+- Tec. Informática 🖥️
+- Graduada em Design de Interiores 📚
+- Gosto de aprender sobre diversas áreas 💡
 
 ---
 
@@ -75,4 +77,9 @@ Um pouco sobre mim: eu tenho 22 anos e sou natural do São Paulo e moro no Rio G
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img
+    aling="right"
+    alt="gif"
+    src="https://i.pinimg.com/originals/c1/80/90/c18090a25ff6a94690abd65856ec744b.gif"
+    width="120px"
+/>
