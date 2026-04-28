@@ -8,73 +8,68 @@
 
 ---
 
-<p>
+<div>
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=webkamilysn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=webkamilysn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-<br/>
-<br/>
+</div>
 
-
+<div>
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="React"
     title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    height="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
@@ -83,3 +78,6 @@
     src="https://i.pinimg.com/originals/c1/80/90/c18090a25ff6a94690abd65856ec744b.gif"
     width="120px"
 />
+</div>
+
+##
